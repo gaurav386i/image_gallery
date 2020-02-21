@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "aws_region": "ap-south-1",
+        "django_settings": "imageGalleryProject.settings",
+        "profile_name": "default",
+        "project_name": "imagegallerypro",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-r7qdqm9ty"
+    }
+}
